@@ -1,17 +1,17 @@
 [
   {
     "id":1,
-    "name":"john"
-    "age":21
+    "name":"john",
+    "age" : 21
   },
   {
     "id":2,
-    "name":"judy"
+    "name":"judy",
     "age":31
   },
   {
     "id":3,
-    "name":"jack"
+    "name":"jack",
     "age":41
   }
   
